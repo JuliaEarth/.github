@@ -1,2 +1,3 @@
-# .github
-Organization information
+# JuliaEarth
+
+Repository with organization information.
