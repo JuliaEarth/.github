@@ -20,7 +20,9 @@ extreme value statistics.
 
 ## Textbooks
 
+<a href="https://juliaearth.github.io/geospatial-data-science-with-julia">
 <img src="https://juliaearth.github.io/geospatial-data-science-with-julia/images/cover.svg" width="300">
+</a>
 
 ## Getting involved
 
