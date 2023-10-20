@@ -22,7 +22,15 @@ extreme value statistics.
 ## Textbooks
 
 <a href="https://juliaearth.github.io/geospatial-data-science-with-julia">
-<img src="https://juliaearth.github.io/geospatial-data-science-with-julia/images/cover.svg" width="300">
+  <img src="https://juliaearth.github.io/geospatial-data-science-with-julia/images/cover.svg" width="300">
+</a>
+
+## Tutorials
+
+[GeoStatsTutorials](https://github.com/JuliaEarth/GeoStatsTutorials) on YouTube:
+
+<a href="https://www.youtube.com/playlist?list=PLsH4hc788Z1f1e61DN3EV9AhDlpbhhanw">
+  <img src="https://img.youtube.com/vi/yDIK9onnZVw/maxresdefault.jpg" width=500>
 </a>
 
 ## Getting involved
