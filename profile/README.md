@@ -33,6 +33,12 @@ extreme value statistics.
   <img src="https://img.youtube.com/vi/yDIK9onnZVw/maxresdefault.jpg" width=500>
 </a>
 
+[JuliaEO2023](https://github.com/Arpeggeo/JuliaEO2023) at AIRCentre:
+
+<a href="https://youtu.be/1FfgjW5XQ9g">
+  <img src="https://img.youtube.com/vi/1FfgjW5XQ9g/maxresdefault.jpg" width=500>
+</a>
+
 ## Getting involved
 
 Active contributors are invited to join the organization. We have a
