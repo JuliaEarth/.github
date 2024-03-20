@@ -27,16 +27,22 @@ extreme value statistics.
 
 ## Tutorials
 
-[GeoStatsTutorials](https://github.com/JuliaEarth/GeoStatsTutorials) on YouTube:
-
-<a href="https://www.youtube.com/playlist?list=PLsH4hc788Z1f1e61DN3EV9AhDlpbhhanw">
-  <img src="https://img.youtube.com/vi/yDIK9onnZVw/maxresdefault.jpg" width=500>
-</a>
-
 [JuliaEO2023](https://github.com/Arpeggeo/JuliaEO2023) at AIRCentre:
 
 <a href="https://youtu.be/1FfgjW5XQ9g">
   <img src="https://img.youtube.com/vi/1FfgjW5XQ9g/maxresdefault.jpg" width=500>
+</a>
+
+[JuliaEO2024](https://github.com/Arpeggeo/JuliaEO2024) at AIRCentre:
+
+<a href="https://youtu.be/r7MwEme_Y5w?t=360">
+  <img src="https://img.youtube.com/vi/r7MwEme_Y5w/maxresdefault.jpg" width=500>
+</a>
+
+<a></a>
+
+<a href="https://youtu.be/Nsi-2vn7KcU?t=158">
+  <img src="https://img.youtube.com/vi/Nsi-2vn7KcU/maxresdefault.jpg" width=500>
 </a>
 
 ## Getting involved
