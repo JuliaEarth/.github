@@ -25,7 +25,13 @@ extreme value statistics.
   <img src="https://juliaearth.github.io/geospatial-data-science-with-julia/images/cover.svg" width="300">
 </a>
 
-## Tutorials
+## Recordings
+
+[JuliaCon2021](https://juliacon.org/2021) on YouTube:
+
+<a href="https://youtu.be/75A6zyn5pIE">
+  <img src="https://img.youtube.com/vi/75A6zyn5pIE/maxresdefault.jpg" width=500>
+</a>
 
 [JuliaEO2023](https://github.com/Arpeggeo/JuliaEO2023) at AIRCentre:
 
