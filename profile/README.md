@@ -13,6 +13,7 @@ extreme value statistics.
 | [GeoIO.jl](https://github.com/JuliaEarth/GeoIO.jl) | Load/save geospatial data in various formats |
 | [GeoArtifacts.jl](https://github.com/JuliaEarth/GeoArtifacts.jl) | Artifacts for geospatial data science |
 | [DrillHoles.jl](https://github.com/JuliaEarth/DrillHoles.jl) | Desurvey/composite drill hole data |
+| [CoordRefSystems.jl](https://github.com/JuliaEarth/CoordRefSystems.jl) | Coordinate reference systems |
 | [CoDa.jl](https://github.com/JuliaEarth/CoDa.jl) | Compositional data analysis |
 | [ExtremeStats.jl](https://github.com/JuliaEarth/ExtremeStats.jl) | Extreme value statistics |
 | [ImageQuilting.jl](https://github.com/JuliaEarth/ImageQuilting.jl) | Fast image quilting simulation |
