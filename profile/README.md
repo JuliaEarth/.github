@@ -16,6 +16,7 @@ extreme value statistics.
 | [CoDa.jl](https://github.com/JuliaEarth/CoDa.jl) | Compositional data analysis |
 | [ExtremeStats.jl](https://github.com/JuliaEarth/ExtremeStats.jl) | Extreme value statistics |
 | [DrillHoles.jl](https://github.com/JuliaEarth/DrillHoles.jl) | Desurvey/composite drill hole data |
+| [SeisKit.jl](https://github.com/JuliaEarth/SeisKit.jl) | Utilities for working with seismic data |
 | [ImageQuilting.jl](https://github.com/JuliaEarth/ImageQuilting.jl) | Fast image quilting simulation |
 | [StratiGraphics.jl](https://github.com/JuliaEarth/StratiGraphics.jl) | Geostatistical stratigraphy simulation |
 | [TuringPatterns.jl](https://github.com/JuliaEarth/TuringPatterns.jl) | Turing patterns simulation |
