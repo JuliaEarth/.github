@@ -5,6 +5,14 @@ for geospatial data science and geostatistical modeling, as well as other statis
 commonly used in the Earth sciences, including software for compositional data analysis and
 extreme value statistics.
 
+## Getting involved
+
+Join our [community channel on Zulip](https://julialang.zulipchat.com/#narrow/stream/276201-geostats.2Ejl)
+to connect with researchers, developers, and practitioners working on the JuliaEarth ecosystem.
+Participate in discussions, share ideas, ask questions, and contribute to ongoing projects such
+as GeoStats.jl, CoordRefSystems.jl, and many others. Whether you're a user, contributor, or
+simply curious about geospatial data science in Julia, we'd love to have you involved.
+
 ## Packages
 
 | Name | Description |
@@ -52,9 +60,3 @@ extreme value statistics.
 <a href="https://youtu.be/Nsi-2vn7KcU?t=158">
   <img src="https://img.youtube.com/vi/Nsi-2vn7KcU/maxresdefault.jpg" width=500>
 </a>
-
-## Getting involved
-
-Active contributors are invited to join the organization. We have a
-[community channel on Zulip](https://julialang.zulipchat.com/#narrow/stream/276201-geostats.2Ejl)
-where we discuss the software stack and propose improvements.
