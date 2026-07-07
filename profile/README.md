@@ -26,7 +26,6 @@ simply curious about geospatial data science in Julia, we'd love to have you inv
 | [DrillHoles.jl](https://github.com/JuliaEarth/DrillHoles.jl) | Desurvey/composite drill hole data |
 | [SeisKit.jl](https://github.com/JuliaEarth/SeisKit.jl) | Utilities for working with seismic data |
 | [ImageQuilting.jl](https://github.com/JuliaEarth/ImageQuilting.jl) | Fast image quilting simulation |
-| [StratiGraphics.jl](https://github.com/JuliaEarth/StratiGraphics.jl) | Geostatistical stratigraphy simulation |
 | [TuringPatterns.jl](https://github.com/JuliaEarth/TuringPatterns.jl) | Turing patterns simulation |
 
 ## Textbooks
